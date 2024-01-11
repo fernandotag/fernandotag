@@ -41,7 +41,7 @@ app.get("/contact", (req, res) => {
     jobTitle: "Full-Stack Developer",
     website: "",
     socialMedia: {
-      linkedin: "https://www.linkedin.com/in/fernandotag",
+      linkedin: "https://www.linkedin.com/in/fernando-tagliaferro",
       medium: "",
     },
   });
