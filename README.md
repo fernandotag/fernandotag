@@ -29,6 +29,7 @@ app.get("/about-me", (req, res) => {
         'CI/CD',
         'Docker',
         'Docker Swarm',
+        'GitHub Actions',
         'Kubernetes',
         'RabbitMQ',
         'Sonar',
